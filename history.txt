@@ -33,3 +33,11 @@ history
 history -w ~/history.txt
 pwd
 history -w history.txt
+git status
+git add history.txt
+git status
+git commit -m "edit history file"
+git status
+git push
+history
+history -w history.txt
