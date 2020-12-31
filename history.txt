@@ -1,0 +1,35 @@
+pwd
+cd d:/CEU 2
+cd " d:/CEU 2"
+cd "d:\CEU 2"
+pwd
+cd a_studies
+pwd
+ls
+cd "01 Fall 2020"
+ls -aFl
+cd "Coding for Economists"
+ls
+cd " final project"
+cd final_project
+git clone git@github.com:sivimail/coding_final_project_sivimail.git
+git clone git@github.com:sivimail/coding_final_project_sivimail.git
+Please make sure you have the correct access rights
+git clone git@github.com:sivimail/coding_final_project_sivimail.git
+git clone https://github.com/sivimail/coding_final_project_sivimail.git
+pwd
+cd coding_final_project_sivimail
+pwd
+mkdir 01_data_raw
+mkdir 02_data_derived
+mkdir code
+mkdir output
+ls -aFl
+mv code 03_code
+mv output 04_output
+ls -aFl
+git status
+history
+history -w ~/history.txt
+pwd
+history -w history.txt
